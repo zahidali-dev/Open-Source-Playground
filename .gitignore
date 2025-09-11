@@ -1,0 +1,90 @@
+# Compiled files and executables
+*.exe
+*.out
+*.app
+*.class
+hello-world
+a.out
+
+# Language-specific build artifacts
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# JavaScript/Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+dist/
+build/
+
+# Java
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+target/
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# C/C++
+*.o
+*.a
+*.lib
+*.dll
+*.dylib
+*.so
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Go
+vendor/
+*.test
+*.prof
+
+# Rust
+target/
+Cargo.lock
+**/*.rs.bk
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+.cache/
+
+# OS generated files
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Personal notes (contributors might create these)
+notes.txt
+todo.txt
+*.personal
