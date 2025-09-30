@@ -129,3 +129,5 @@ Feel free to open an issue if you have any questions or need help getting starte
 
 
 *Remember: Every expert was once a beginner. Your first contribution matters!*
+This repo is part of Hacktoberfest 2025 — contributions welcome! 
+
