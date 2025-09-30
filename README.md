@@ -118,6 +118,9 @@ Feel free to open an issue if you have any questions or need help getting starte
 
 ---
 
-**Happy Contributing! 🎉**
+🎉 **Happy Contributing & Welcome to the Open Source Family!** 🚀  
+
+✨ *Every expert was once a beginner – your first PR is the first step toward greatness!* ✨
+
 
 *Remember: Every expert was once a beginner. Your first contribution matters!*
