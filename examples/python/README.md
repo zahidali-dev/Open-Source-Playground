@@ -36,9 +36,12 @@ Feel free to add more Python examples! Some ideas:
 - Basic web scraper
 
 ### Code Style Guidelines
-- Use meaningful variable names
-- Add comments explaining your code
-- Follow PEP 8 style guidelines
-- Include a docstring for functions
+- Use meaningful variable names  
+- Add comments explaining your code  
+- Follow PEP 8 style guidelines  
+- Include a docstring for functions  
+- Keep functions small and focused on a single task  
+- Write readable and consistent code for collaboration  
+
 
 Happy coding! 🎉
