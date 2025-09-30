@@ -1,11 +1,18 @@
-// Hello World in Rust
+// ---------------------------------------------------------
+// Hello World Program in Rust
+// ---------------------------------------------------------
 // Author: Open Source Playground Team
-// Description: A simple program that prints "Hello, World!" to the console
+// Description: A simple Rust program that demonstrates the
+//              classic "Hello, World!" example.
+// ---------------------------------------------------------
 
-/**
- * Main function - entry point of the program
- */
+/// Entry point of the program
 fn main() {
-    println!("Hello, World!");
-    println!("Welcome to Open Source Playground! 🎮");
+    let message = greet();
+    println!("{}", message);
+}
+
+/// Returns a greeting message
+fn greet() -> String {
+    String::from("Hello, World! 👋\nWelcome to Open Source Playground! 🎮")
 }
