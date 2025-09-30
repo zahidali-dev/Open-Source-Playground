@@ -1,4 +1,4 @@
-This repo is part of Hacktoberfest 2025- contibutions welcome 
+this repo is part of hacktoberfest -contributions welcome 
 # 🎮 Open Source Playground
 
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-friendly-ff7b00)](https://hacktoberfest.digitalocean.com/)
@@ -114,6 +114,9 @@ A big thank you to all our contributors! See the full list in [CONTRIBUTORS.md](
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 💬 Questions?
+## Resources 
+o [Hacktoberfest Official Site](https://hacktoberfest.com) 
+o [GitHub Docs](https://docs.github.com) 
 
 Feel free to open an issue if you have any questions or need help getting started. We're here to help! 
 
