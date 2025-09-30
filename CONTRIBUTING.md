@@ -73,11 +73,11 @@ git checkout -b fix-readme-typo
 2. Find the "Add your name above this line!" comment
 3. Add your information following this format:
 ```markdown
-### [Your Name](https://github.com/yourusername)
-- **Fun Fact**: Something interesting about you!
-- **Favorite Programming Language**: Your favorite language
+### [Mahnoor Shuaib ](https://github.com/Mahnoor-shuaib)
+- **Fun Fact**: my code works after alot of errors !
+- **Favorite Programming Language**: java OOP
 - **Location**: Your city/country (optional)
-- **First Contribution Date**: YYYY-MM-DD
+- **First Contribution Date**: 2025-10-01
 ```
 
 #### Adding a Code Example
