@@ -29,7 +29,11 @@ Fun Fact: I hate notifications!
 
 ---
 
-*Add your name above this line! We can't wait to meet you! 🎉*
+### [Zafar Ali](https://github.com/zafar-Alee)
+- **Fun Fact**: Fun does not exist in my life!
+- **Favorite Programming Language**: Kotlin
+- **Location**:Nawabshah, Sindh Pakistan
+- **First Contribution Date**: 2024-12-09
 
 ## Statistics
 
