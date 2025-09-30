@@ -7,6 +7,9 @@
 /**
  * Main function - entry point of the program
  * @return 0 on successful execution
+
+
+ // KK Ki Comit Accept kar lo
  */
 int main() {
     std::cout << "Hello, World!" << std::endl;
