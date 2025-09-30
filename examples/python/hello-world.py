@@ -1,5 +1,6 @@
 # Hello World in Python
 # Author: Open Source Playground Team
+#I Love MZ
 # Description: A simple program that prints "Hello, World!" to the console
 
 def main():
