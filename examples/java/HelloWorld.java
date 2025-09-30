@@ -8,7 +8,7 @@ public class HelloWorld {
      * @param args command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        System.out.println("Hello, Planet!");
         System.out.println("Welcome to Open Source Playground! 🎮");
     }
 }
