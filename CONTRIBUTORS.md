@@ -36,6 +36,7 @@ Thank you to all the amazing people who have contributed to the Open Source Play
 - **Total Contributors**: 1
 - **Countries Represented**: 1
 - **Programming Languages Loved**: ∞
+- **Shahzaman**
 
 ---
 
