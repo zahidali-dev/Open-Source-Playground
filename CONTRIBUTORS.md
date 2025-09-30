@@ -16,7 +16,7 @@ Thank you to all the amazing people who have contributed to the Open Source Play
 - **Location**: Your city/country (optional)
 - **First Contribution Date**: YYYY-MM-DD
 ```
-
+Fun Fact: I hate notifications!
 ---
 
 ## Our Amazing Contributors
