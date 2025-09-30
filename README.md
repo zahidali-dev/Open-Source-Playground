@@ -1,4 +1,3 @@
-This repo is part of hacktoberfest 2025- contributions welcome!
 # 🎮 Open Source Playground
 
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-friendly-ff7b00)](https://hacktoberfest.digitalocean.com/)
@@ -6,7 +5,7 @@ This repo is part of hacktoberfest 2025- contributions welcome!
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Welcome to your friendly gateway to the world of open source contributions!** 🌟
-This repo is part of hacktoberfest 2025- contributions welcome!
+
 This repository is specifically designed for **Hacktoberfest** participants and newcomers who want to learn Git, GitHub workflows, and make their first open source contributions in a safe, welcoming environment.
 
 ## 🎯 What is this project?
@@ -121,8 +120,9 @@ o [GitHub Docs](https://docs.github.com)
 Feel free to open an issue if you have any questions or need help getting started. We're here to help! 
 
 ---
-Resources
-o Hacktoberfest Official Site o GitHub Docs
+## Resources
+o [Hacktoberfest Official Site](https://hacktoberfest.com) 
+o [GitHub Docs](https://docs.github.com) 
 
 Feel free to open an issue if you have any questions or need help getting started. We're here to help!
 
