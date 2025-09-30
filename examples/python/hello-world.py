@@ -4,7 +4,7 @@
 
 def main():
     """Main function that prints a greeting message."""
-    print("Hello, World!")
+    print("Hello, planet!")
     print("Welcome to Open Source Playground! 🎮")
 
 if __name__ == "__main__":
