@@ -1,5 +1,6 @@
 // ---------------------------------------------------------
 // Hello World Program in Rust
+// I Love UZAIR
 // ---------------------------------------------------------
 // Author: Open Source Playground Team
 // Description: A simple Rust program that demonstrates the
