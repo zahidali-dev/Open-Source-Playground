@@ -1,0 +1,15 @@
+## 🚀 Installation
+
+Follow these steps to set up the project on your local machine:
+
+```bash
+# Clone the repository
+git clone https://github.com/username/repository.git
+
+# Navigate into the project folder
+cd repository
+
+# Install dependencies (if any)
+npm install   # for Node.js projects
+# OR
+pip install -r requirements.txt   # for Python projects
