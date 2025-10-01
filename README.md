@@ -127,6 +127,10 @@ o [GitHub Docs](https://docs.github.com)
 Feel free to open an issue if you have any questions or need help getting started. We're here to help!
 
 ---
+
+💻🤖📊☁️🔒⚡📱🌐🕹️
+
+---
 🎉 **Happy Contributing & Welcome to the Open Source Family!** 🚀  
 
 ✨ *Every expert was once a beginner – your first PR is the first step toward greatness!* ✨
