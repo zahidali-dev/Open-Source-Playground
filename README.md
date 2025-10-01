@@ -143,3 +143,7 @@ This repo is part of Hacktoberfest 2025 — contributions welcome!
 
 Keep contributing , and happy hacktoberfest!
 
+## Resources
+o [Hacktoberfest Official Site](https://hacktoberfest.com) 
+o [GitHub Docs](https://docs.github.com) 
+
