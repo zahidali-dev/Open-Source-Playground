@@ -139,6 +139,9 @@ Feel free to open an issue if you have any questions or need help getting starte
 
 ✨ *Every expert was once a beginner – your first PR is the first step toward greatness!* ✨
 
+🌟 Open source is not just code, it’s a community — keep sharing and shining! 🌟
+
+
 
 *Remember: Every expert was once a beginner. Your first contribution matters!*
 This repo is part of Hacktoberfest 2025 — contributions welcome! 
