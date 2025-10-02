@@ -46,7 +46,13 @@ Fun Fact: I hate notifications!
 ### [Sameer Khuhro](https://github.com/sameerkhuhro)
 add: Sameer Khuhro to contributors list
 
+### [Dua Ali Memon][(https://github.com/Duaalimemon)]
+- **Fun Fact**: I just love to make ChatGPT to be a my Real humainzed Friend (heheh)
+- **Favorite Programming Language**: JavaScript 
+- **Location**: Gambat, Sindh, Pakistan
+- **First Contribution Date**: 2025-10-01
 
+  add:Dua Ali to contributor list.
 
 ## Statistics
 
