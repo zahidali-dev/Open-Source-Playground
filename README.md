@@ -4,7 +4,8 @@
 [![Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-This reo is part of Hacktoberfest 2025
+This repo is part of Hacktoberfest 2025 — contributions welcome! 🎉
+
 
 **Welcome to your friendly gateway to the world of open source contributions!** 🌟
 
@@ -122,9 +123,10 @@ o [GitHub Docs](https://docs.github.com)
 Feel free to open an issue if you have any questions or need help getting started. We're here to help! 
 
 ---
-## Resources
-o [Hacktoberfest Official Site](https://hacktoberfest.com) 
-o [GitHub Docs](https://docs.github.com) 
+## Resources  
+- [Hacktoberfest Official Site](https://hacktoberfest.com)  
+- [GitHub Docs](https://docs.github.com)  
+
 
 Feel free to open an issue if you have any questions or need help getting started. We're here to help!
 
@@ -136,6 +138,9 @@ Feel free to open an issue if you have any questions or need help getting starte
 🎉 **Happy Contributing & Welcome to the Open Source Family!** 🚀  
 
 ✨ *Every expert was once a beginner – your first PR is the first step toward greatness!* ✨
+
+🌟 Open source is not just code, it’s a community — keep sharing and shining! 🌟
+
 
 
 *Remember: Every expert was once a beginner. Your first contribution matters!*
