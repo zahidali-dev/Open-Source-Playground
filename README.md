@@ -122,9 +122,10 @@ o [GitHub Docs](https://docs.github.com)
 Feel free to open an issue if you have any questions or need help getting started. We're here to help! 
 
 ---
-## Resources
-o [Hacktoberfest Official Site](https://hacktoberfest.com) 
-o [GitHub Docs](https://docs.github.com) 
+## Resources  
+- [Hacktoberfest Official Site](https://hacktoberfest.com)  
+- [GitHub Docs](https://docs.github.com)  
+
 
 Feel free to open an issue if you have any questions or need help getting started. We're here to help!
 
