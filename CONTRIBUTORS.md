@@ -43,6 +43,10 @@ Fun Fact: I hate notifications!
 - **Location**: Jamshoro, Sindh, Pakistan
 - **First Contribution Date**: 2025-10-01
 
+### [Sameer Khuhro](https://github.com/sameerkhuhro)
+add: Sameer Khuhro to contributors list
+
+
 
 ## Statistics
 
