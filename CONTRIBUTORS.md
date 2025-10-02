@@ -36,6 +36,11 @@ Fun Fact: I hate notifications!
 - **First Contribution Date**: 2024-12-09
 
 ---
+  ## [Toheed Ahmed](https://github.com/Toheed-Ahmed)
+- **Fun Fact**: I’m still waiting for fun to be delivered in my life, maybe it’s stuck in traffic.
+- **Favorite Programming Language**: Javascript
+- **Location**:Ghotki, Sindh Pakistan
+- **First Contribution Date**: 2025-1-09
 
 ### [Ghulam Hussain Khuhro](https://github.com/ghulam-hussain-khuhro)
 - **Fun Fact**: I enjoy teaching AI to understand human languages!
