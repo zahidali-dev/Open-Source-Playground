@@ -4,7 +4,7 @@
 // Description: A simple program that prints "Hello, World!" to the console
 
 #include <iostream>
-using namepace std;
+using namespace std;
 
 /**
  * Main function - entry point of the program
