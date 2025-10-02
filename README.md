@@ -4,7 +4,8 @@
 [![Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-This reo is part of Hacktoberfest 2025
+This repo is part of Hacktoberfest 2025 — contributions welcome! 🎉
+
 
 **Welcome to your friendly gateway to the world of open source contributions!** 🌟
 
