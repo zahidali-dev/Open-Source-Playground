@@ -36,6 +36,15 @@ Fun Fact: I hate notifications!
 - **First Contribution Date**: 2024-12-09
 
 ---
+
+### [Dua Ali Memon][(https://github.com/Duaalimemon)]
+- **Fun Fact**: I just love to make ChatGPT to be a my Real humainzed Friend (heheh)
+- **Favorite Programming Language**: JavaScript 
+- **Location**: Gambat, Sindh, Pakistan
+- **First Contribution Date**: 2025-10-01
+
+  ---
+
   ## [Toheed Ahmed](https://github.com/Toheed-Ahmed)
 - **Fun Fact**: I’m still waiting for fun to be delivered in my life, maybe it’s stuck in traffic.
 - **Favorite Programming Language**: Javascript
@@ -51,11 +60,7 @@ Fun Fact: I hate notifications!
 ### [Sameer Khuhro](https://github.com/sameerkhuhro)
 add: Sameer Khuhro to contributors list
 
-### [Dua Ali Memon][(https://github.com/Duaalimemon)]
-- **Fun Fact**: I just love to make ChatGPT to be a my Real humainzed Friend (heheh)
-- **Favorite Programming Language**: JavaScript 
-- **Location**: Gambat, Sindh, Pakistan
-- **First Contribution Date**: 2025-10-01
+
 
   add:Dua Ali to contributor list.
 
