@@ -56,7 +56,8 @@ git clone https://github.com/YOUR_USERNAME/Open-Source-Playground.git
 cd Open-Source-Playground
 ```
 
-### Step 3: Create a New Branch
+### Step 3: Create a New Branch 
+(note: Tip: Branch names should be short and descriptive, like fix-typo-readme or add-js-example.)
 ```bash
 # Use a descriptive branch name
 git checkout -b add-my-name
