@@ -70,6 +70,12 @@ add: Sameer Khuhro to contributors list
 - **Countries Represented**: 1
 - **Programming Languages Loved**: ∞
 - **Shahzaman**
+- 
+### [Zahid Ali](https://github.com/zahidali-dev)
+- **Fun Fact**: Coding at night makes me feel more creative 🌙
+- **Favorite Programming Language**: All of them! 🌈
+- **Location**: Khairpur, Sindh, Pakistan
+- **First Contribution Date**: 2025-10-11
 
 ---
 
